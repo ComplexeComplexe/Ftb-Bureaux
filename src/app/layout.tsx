@@ -51,3 +51,4 @@ export default function RootLayout({
     </html>
   );
 }
+// Force Vercel complete rebuild - Wed Sep  3 16:14:17 CEST 2025
