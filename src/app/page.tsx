@@ -292,3 +292,4 @@ export default function HomePage() {
     </div>
   );
 }
+// URGENT: Force Vercel complete rebuild - Wed Sep  3 17:29:01 CEST 2025
